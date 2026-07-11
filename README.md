@@ -2,7 +2,7 @@
 
 ### Overview
 
-GOLD_ORB Sandpiper is an enhanced version of the original GOLD_ORB EA, adding advanced risk management features and signal filtering for improved trade quality and reduced drawdown.
+Neural Sandpiper is an enhanced version of the original GOLD_ORB EA, adding advanced risk management features and signal filtering for improved trade quality and reduced drawdown.
 
 ---
 
