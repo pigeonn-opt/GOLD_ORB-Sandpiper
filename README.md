@@ -1,4 +1,4 @@
-# GOLD_ORB Sandpiper
+# Neural Sandpiper
 
 ### Overview
 
